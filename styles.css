@@ -1,0 +1,17 @@
+body{
+    background-image: url(https://starwalk.space/gallery/images/what-is-space/1920x1080.jpg);
+}
+
+#q{
+    color: azure;
+    font-size: 75px;
+}
+
+#div{
+    display: flex;
+    flex: 1;
+    align-items: center;
+    align-content: center;
+    size: 50px;
+    margin: 30px;
+}
